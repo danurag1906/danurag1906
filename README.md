@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Anurag Daliya. I'm a passionate full stack developer.</p>
+<p align="left">Currently building EJS Craft (https://ejscraft.com). Generate EJS templates with ease using AI.</p>
 
 ###
 
